@@ -1,4 +1,5 @@
 import dashes as d
+#password is **1
 def get_guess(secret_word,unique):
     import time as t
     dashes = "-" * len(secret_word)
